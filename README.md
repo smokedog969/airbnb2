@@ -84,3 +84,5 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+git remote set-url origin https://github.com/smokedog969/airbnb2.git
